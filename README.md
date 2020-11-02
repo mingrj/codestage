@@ -1,6 +1,18 @@
 # Code/Stage Hackaton Sony Music 2020
 
-Descrição do Projeto 
+#### https://www.codestage.com.br/
+## Desafio
+### Music Business: onde a inteligência amplifica a emoção
+### Como a Inteligência Artificial e o Machine Learning podem melhorar a experiência de consumo e impulsionar o mercado da música?
+## Grupo 29 :
+
+   ### Anderson Monteiro
+   ### Carlos Silla
+   ### Cinthya Oestreich
+   ### Priscilla Perks
+
+
+# Descrição do Projeto 
 
 No cenário crescente de novos artistas e consumo de música via streaming, descobrir novos conteúdos e identificar bandas/artistas com maior potencial de sucesso é um desafio, ainda mais com algoritmos que privilegiam o que é mais popular. 
 
