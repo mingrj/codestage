@@ -4,7 +4,7 @@
 ## Desafio
 ### Music Business: onde a inteligência amplifica a emoção
 ### Como a Inteligência Artificial e o Machine Learning podem melhorar a experiência de consumo e impulsionar o mercado da música?
-## Grupo 29 :
+### Grupo 29 :
 
    ### Anderson Monteiro
    ### Carlos Silla
